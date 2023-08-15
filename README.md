@@ -4,4 +4,4 @@ Some samples of the estimated RIRs from monaural reverberant speech with Segment
 
 Please refer to:
 
-Z Liao, F Xiong, J Luo, M Cai, ES Chng, J Feng, X Zhong, "Blind Estimation of Room Impulse Response from Monaural Reverberant Speech with Segmental Generative Neural Network", in Interspeech, 2023
+ - Z. Liao, F. Xiong, J. Luo, M. Cai, E.S. Chng, J. Feng and X. Zhong, "Blind Estimation of Room Impulse Response from Monaural Reverberant Speech with Segmental Generative Neural Network", in Interspeech, 2023
